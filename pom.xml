@@ -44,7 +44,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git://github.com/h-mora10/sf-pet-clinic</developerConnection>
+        <developerConnection>scm:git:https://github.com/h-mora10/sf-pet-clinic.git</developerConnection>
         <tag>0.0.1</tag>
     </scm>
 
